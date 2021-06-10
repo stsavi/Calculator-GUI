@@ -117,6 +117,5 @@ public class calculator {
 		lblNewLabel_1.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblNewLabel_1.setBounds(244, 237, 276, 32);
 		frmCalculator.getContentPane().add(lblNewLabel_1);
-	}
-
+	}   //removed the extra whitespaces
 }
